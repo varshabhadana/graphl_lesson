@@ -1,0 +1,17 @@
+{
+  "name": "graphl_lesson",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/varshabhadana/graphl_lesson.git",
+  "author": "Varsha <varshabhadana93@gmail.com>",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "dependencies": {
+    "@apollo/server": "^4.0.1",
+    "graphql": "^16.6.0",
+    "nodemon": "^2.0.20"
+  }
+}
